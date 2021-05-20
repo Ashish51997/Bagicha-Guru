@@ -39,8 +39,8 @@ export const features = [{
 
 },
 {
-    to:"/exertive",
-    contain:"Exertive"
+    to:"/books",
+    contain:"Books"
 
 },
 {

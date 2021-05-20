@@ -40,8 +40,8 @@ function Router() {
               <Route exact path="/offers">
                 Offers
               </Route>
-              <Route exact path="/exertive">
-                Exertive
+              <Route exact path="/books">
+                Books
               </Route>
               <Route exact path="/workshop">
                 Workshop
